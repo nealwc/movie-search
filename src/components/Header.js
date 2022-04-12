@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <Navbar>
             <Container>
-                <Navbar.Brand href="#home">Movie Search</Navbar.Brand>
+                <Navbar.Brand href="#home">Watch List</Navbar.Brand>
                 {/*
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
